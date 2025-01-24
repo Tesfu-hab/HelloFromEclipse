@@ -8,7 +8,6 @@ public class Hello {
 		System.out.println("Hello World!!!");
 		System.out.println("Wel-come to this project.");
 		System.out.println("This is another commit from my_br");
-
 		System.out.println("Hey I am Genet.");
 	}
 
